@@ -1,0 +1,22 @@
+{
+  "name": "wirenboard-module-siren",
+  "version": "1.1.0",
+  "description": "Siren manager",
+  "main": "./wb-rules-modules/siren.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "siren",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-siren.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-siren/issues/"
+  },
+  "license": "ISC"
+}
